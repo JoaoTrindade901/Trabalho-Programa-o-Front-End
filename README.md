@@ -48,3 +48,5 @@ Os botões destacados nos retângulos vermelhos são os botões de navegação. 
 ![App Screenshot](https://github.com/urbaneckkk/TrabalhoPFE/blob/main/imagens-readme/img-noticias.png)
 
 Todas as notícias são exibidas conforme a imagem acima, mostrando apenas o título e a imagem relacionada no portal de notícias. Ao clicar em qualquer parte da imagem, o leitor será redirecionado para o site original da notícia, onde poderá ler o conteúdo completo, obter mais informações e conferir os créditos ao autor responsável pela publicação.
+
+### Link para o site: https://joaotrindade901.github.io/Trabalho-Programa-o-Front-End/
